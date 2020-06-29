@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="button_text">Text</string>
+    <string name="button_image">Image</string>
+    <string name="button_web">Web</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_dialog">Dialog</string>
+</resources>
